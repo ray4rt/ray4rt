@@ -1,4 +1,3 @@
-GNU nano 6.3              denz.py
 import os,sys,time
 def tod(z):
 
