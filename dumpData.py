@@ -3,7 +3,7 @@ def mengetik(z):
                                                                               for e in z + "\n":
                 sys.stdout.write(e)
                 sys.stdout.flush()
-        time.sleep(0.05)
+        time.sleep(0.5)
 mengetik("+=============================================+")
 mengetik("[+] INDONESIAN CYBER ARMY")
 mengetik("[+] ALIAS       : MR.R4YD3N")
